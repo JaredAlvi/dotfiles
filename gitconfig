@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jaredalvi@gmail.com
+	name = Jared Alvidrez
